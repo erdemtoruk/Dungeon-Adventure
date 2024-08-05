@@ -17,7 +17,7 @@ q -- Oyundan çıkış yapılır. <br>
 Savaş: <br>
 Oyuncu odadaki düşmanın başındaki sayıyı girerek hangi düşmana vuracağını seçer. (1: 1. düşman, 2: 2.düşman, ...)
  
-<b> 2. Envanter Sistemi: </b>
+<b> 2. Envanter Sistemi </b>
 
 Oyuncunun 6 slotluk bir envanteri vardır: Kask, Göğüs Zırhı, Silah, Kalkan, Pantolon, Bot.
 Her dönüşten sonra oyuncunun seviyesine göre bir öğe düşebilir ve oyuncu bu öğeyi alıp almamaya karar verir.
