@@ -8,13 +8,13 @@ Bu proje, C++ kullanılarak yazılmış metin tabanlı macera oyunudur. Oyuncula
 
 Oyun metin tabanlı olduğundan oyuncu bazı komutları kullanarak oyunu oynar.
 
-Ana menü:
-s -- Oyuncunun sağlık, saldırı gücü, envanteri gibi özelliklerini gösterir.
-r -- Oyuncu gidebileceği zindan odalarının bilgisini görüntüler
-cX -- X 1 ya da 2 olacak şekilde oyuncunun hangi odayı seçtiği belirlenir. (c1: 1. oda, c2: 2. oda)
-q -- Oyundan çıkış yapılır.
+Ana menü: <br>
+s -- Oyuncunun sağlık, saldırı gücü, envanteri gibi özelliklerini gösterir. <br>
+r -- Oyuncu gidebileceği zindan odalarının bilgisini görüntüler <br>
+cX -- X 1 ya da 2 olacak şekilde oyuncunun hangi odayı seçtiği belirlenir. (c1: 1. oda, c2: 2. oda) <br>
+q -- Oyundan çıkış yapılır. <br>
 
-Savaş:
+Savaş: <br>
 X -- Oyuncu odadaki düşmanın başındaki sayıyı girerek hangi düşmana vuracağını seçer. (1: 1. düşman, 2: 2.düşman ...)
  
 2. Envanter Sistemi:
