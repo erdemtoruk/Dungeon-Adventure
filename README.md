@@ -4,7 +4,7 @@ Bu proje, C++ kullanılarak yazılmış metin tabanlı macera oyunudur. Oyuncula
 
 ## Oyun Mekanikleri
 
-<b> 1. Komut <\b>
+<b> 1. Komut </b>
 
 Oyun metin tabanlı olduğundan oyuncu bazı komutları kullanarak oyunu oynar.
 
@@ -17,18 +17,18 @@ q -- Oyundan çıkış yapılır. <br>
 Savaş: <br>
 Oyuncu odadaki düşmanın başındaki sayıyı girerek hangi düşmana vuracağını seçer. (1: 1. düşman, 2: 2.düşman, ...)
  
-<b> 2. Envanter Sistemi: <\b>
+<b> 2. Envanter Sistemi: </b>
 
 Oyuncunun 6 slotluk bir envanteri vardır: Kask, Göğüs Zırhı, Silah, Kalkan, Pantolon, Bot.
 Her dönüşten sonra oyuncunun seviyesine göre bir öğe düşebilir ve oyuncu bu öğeyi alıp almamaya karar verir.
 Eğer alınan öğe aynı türden bir öğe ile değiştirilirse, eski öğe envanterden çıkar ve yeni öğe eklenir.
 
-<b> 3. Düşmanlar <\b>
+<b> 3. Düşmanlar </b>
 
 Oyunda çeşitli düşmanlar bulunur, her biri farklı sağlık, saldırı ve savunma değerlerine sahiptir.
 Oyun tur bazlı ilerler, ilk önce oyuncu bir düşmanı seçer ve vurur daha sonra ölmeyen bütün düşmanlar oyuncuya vurur.
 
-<b> 4. Seviye <\b>
+<b> 4. Seviye </b>
 
 Düşmanlar yenildiğinde oyuncu deneyim puanı kazanır ve seviye atlar.
 Oyuncunun karşılaştığı düşmanların gücü ve sayısı ayrıca düşen eşyalar seviyeye göre belirlenir.
